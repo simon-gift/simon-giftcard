@@ -3,8 +3,8 @@
   "redirects": [
     {
       "source": "/:path(.*)",
-      "has": [{ "type": "host", "value": "__VERCEL_SUBDOMAIN__.vercel.app" }],
-      "destination": "https://__SITE_DOMAIN__/:path",
+      "has": [{ "type": "host", "value": "simon-giftcard.vercel.app" }],
+      "destination": "https://simon-giftcard.vercel.app/:path",
       "permanent": true
     }
   ],
