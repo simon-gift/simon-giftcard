@@ -3,8 +3,8 @@
   "redirects": [
     {
       "source": "/:path(.*)",
-      "has": [{ "type": "host", "value": "simon-giftcard.vercel.app" }],
-      "destination": "https://simon-giftcard.vercel.app/:path",
+      "has": [{ "type": "host", "value": "simon-giftcard-eosin.vercel.app" }],
+      "destination": "https://simon-giftcard-eosin.vercel.app/:path",
       "permanent": true
     }
   ],
