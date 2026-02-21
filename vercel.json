@@ -1,6 +1,13 @@
 {
   "version": 2,
-  "redirects": [],
+  "redirects": [
+    {
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "simon-giftcard-eosin.vercel.app" }],
+      "destination": "https://simon-cards.org/:path",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap.xml",

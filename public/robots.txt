@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://simon-giftcard-eosin.vercel.app/sitemap.xml
+Sitemap: https://simon-cards.org/sitemap.xml
