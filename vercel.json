@@ -4,7 +4,7 @@
     {
       "source": "/:path(.*)",
       "has": [{ "type": "host", "value": "simon-giftcard-eosin.vercel.app" }],
-      "destination": "https://simon-cards.org/:path",
+      "destination": "https://www.simon-cards.org/:path",
       "permanent": true
     }
   ],

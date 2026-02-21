@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://simon-cards.org/sitemap.xml
+Sitemap: https://www.simon-cards.org/sitemap.xml
